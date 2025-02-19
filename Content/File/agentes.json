@@ -1,0 +1,34 @@
+{
+    "Agentes": [
+        {
+            "idAgente": "08938499948",
+            "Nome": "Raul da Cruz",
+            "Saldo": 2000.5,
+            "Media": 600.0
+        },
+        {
+            "idAgente": "12345678000195",
+            "Nome": "UFSM",
+            "Saldo": 1500000000.0,
+            "Media": 62377500.0
+        },
+        {
+            "idAgente": "12345678901",
+            "Nome": "Rodrigo Cruz",
+            "Saldo": 100000.0,
+            "Media": 2000.0
+        },
+        {
+            "idAgente": "12345698901",
+            "Nome": "Vó Materna",
+            "Saldo": 1000000.0,
+            "Media": 8000.0
+        },
+        {
+            "idAgente": "43214328000195",
+            "Nome": "SuperMercado",
+            "Saldo": 1000.5,
+            "Media": 8.5
+        }
+    ]
+}

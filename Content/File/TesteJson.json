@@ -1,0 +1,40 @@
+{
+	"myString": "Oi eu sou o Raul",
+	"myBool": true,
+	"myFloat": 1.3284473419189453,
+	"myInt": 12,
+	"myVector":
+	{
+		"x": 1,
+		"y": 2,
+		"z": 3
+	},
+	"myRotator":
+	{
+		"pitch": 0,
+		"yaw": 0,
+		"roll": 0
+	},
+	"myTransform":
+	{
+		"rotation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"w": 1
+		},
+		"translation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"scale3D":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		}
+	}
+}

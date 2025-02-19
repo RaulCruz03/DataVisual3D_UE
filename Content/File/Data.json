@@ -1,0 +1,18 @@
+{
+	"Agentes": [
+	  {
+		"idAgente": "1",
+		"Nome": "Agente1",
+		"Saldo": 100.0,
+		"Media": 50.0,
+		"Posicao": [100, 200, 300]
+	  },
+	  {
+		"idAgente": "2",
+		"Nome": "Agente2",
+		"Saldo": 200.0,
+		"Media": 60.0,
+		"Posicao": [150, 250, 350]
+	  }
+	]
+  }

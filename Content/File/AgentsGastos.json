@@ -1,0 +1,167 @@
+{
+    "Agentes": [
+        {
+            "idAgente": "08938499948",
+            "Nome": "Raul da Cruz",
+            "Saldo": 2000.5,
+            "Media": 600.0
+        },
+        {
+            "idAgente": "12345678000195",
+            "Nome": "UFSM",
+            "Saldo": 1500000000.0,
+            "Media": 62377500.0
+        },
+        {
+            "idAgente": "12345678901",
+            "Nome": "Rodrigo Cruz",
+            "Saldo": 100000.0,
+            "Media": 2000.0
+        },
+        {
+            "idAgente": "12345698901",
+            "Nome": "Vó Materna",
+            "Saldo": 1000000.0,
+            "Media": 8000.0
+        },
+        {
+            "idAgente": "43214328000195",
+            "Nome": "SuperMercado",
+            "Saldo": 1000.5,
+            "Media": 8.5
+        }
+    ],
+    "Gastos": [
+        {
+            "Agente_Pagador": "08938499948",
+            "Agente_Recebedor": "12345678000195",
+            "Valor": 50.0,
+            "Media": 50.0,
+            "codTransacao": 1,
+            "Mes": "Janeiro"
+        },
+        {
+            "Agente_Pagador": "08938499948",
+            "Agente_Recebedor": "43214328000195",
+            "Valor": 200.5,
+            "Media": 50.0,
+            "codTransacao": 2,
+            "Mes": "Janeiro"
+        },
+        {
+            "Agente_Pagador": "12345698901",
+            "Agente_Recebedor": "08938499948",
+            "Valor": 500.0,
+            "Media": 500.0,
+            "codTransacao": 3,
+            "Mes": "Janeiro"
+        },
+        {
+            "Agente_Pagador": "12345678901",
+            "Agente_Recebedor": "08938499948",
+            "Valor": 100.0,
+            "Media": 100.0,
+            "codTransacao": 4,
+            "Mes": "Janeiro"
+        },
+
+        {
+            "Agente_Pagador": "12345678901",
+            "Agente_Recebedor": "43214328000195",
+            "Valor": 150.0,
+            "Media": 120.0,
+            "codTransacao": 5,
+            "Mes": "Fevereiro"
+        },
+        {
+            "Agente_Pagador": "12345698901",
+            "Agente_Recebedor": "12345678000195",
+            "Valor": 300.0,
+            "Media": 200.0,
+            "codTransacao": 6,
+            "Mes": "Fevereiro"
+        },
+        {
+            "Agente_Pagador": "08938499948",
+            "Agente_Recebedor": "12345678901",
+            "Valor": 400.0,
+            "Media": 350.0,
+            "codTransacao": 7,
+            "Mes": "Fevereiro"
+        },
+        {
+            "Agente_Pagador": "43214328000195",
+            "Agente_Recebedor": "12345698901",
+            "Valor": 250.0,
+            "Media": 220.0,
+            "codTransacao": 8,
+            "Mes": "Fevereiro"
+        },
+
+        {
+            "Agente_Pagador": "12345678000195",
+            "Agente_Recebedor": "08938499948",
+            "Valor": 600.0,
+            "Media": 550.0,
+            "codTransacao": 9,
+            "Mes": "Março"
+        },
+        {
+            "Agente_Pagador": "08938499948",
+            "Agente_Recebedor": "12345698901",
+            "Valor": 200.0,
+            "Media": 180.0,
+            "codTransacao": 10,
+            "Mes": "Março"
+        },
+        {
+            "Agente_Pagador": "43214328000195",
+            "Agente_Recebedor": "12345678000195",
+            "Valor": 700.0,
+            "Media": 620.0,
+            "codTransacao": 11,
+            "Mes": "Março"
+        },
+        {
+            "Agente_Pagador": "12345698901",
+            "Agente_Recebedor": "43214328000195",
+            "Valor": 500.0,
+            "Media": 450.0,
+            "codTransacao": 12,
+            "Mes": "Março"
+        },
+
+        {
+            "Agente_Pagador": "12345698901",
+            "Agente_Recebedor": "08938499948",
+            "Valor": 800.0,
+            "Media": 750.0,
+            "codTransacao": 13,
+            "Mes": "Abril"
+        },
+        {
+            "Agente_Pagador": "12345678901",
+            "Agente_Recebedor": "43214328000195",
+            "Valor": 300.0,
+            "Media": 290.0,
+            "codTransacao": 14,
+            "Mes": "Abril"
+        },
+        {
+            "Agente_Pagador": "12345678000195",
+            "Agente_Recebedor": "12345698901",
+            "Valor": 400.0,
+            "Media": 370.0,
+            "codTransacao": 15,
+            "Mes": "Abril"
+        },
+        {
+            "Agente_Pagador": "08938499948",
+            "Agente_Recebedor": "12345678901",
+            "Valor": 100.0,
+            "Media": 90.0,
+            "codTransacao": 16,
+            "Mes": "Abril"
+        }
+    ]
+}
